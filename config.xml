@@ -16,6 +16,8 @@
         PhoneGap Team
     </author>
 
+    <platform name="android" />
+
     <preference name="phonegap-version" value="cli-6.0.0" /> 
 
     <plugin name="cordova-plugin-media" spec="~5.0.2" />
